@@ -1,7 +1,7 @@
 /*
  * HEG Haute école de gestion Arc
- * 633-1.1 Structures de données avancées 
- * 2014-2015 
+ * 625-1.2 Outils de développement intégré 
+ * 2017-2018 
  */
 package ch.hearc.ig.sda.cc;
 
