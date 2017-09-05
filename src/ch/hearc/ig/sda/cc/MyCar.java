@@ -5,6 +5,9 @@
  */
 package ch.hearc.ig.sda.cc;
 
+import static ch.hearc.ig.sda.cc.State.DRIVING;
+import static ch.hearc.ig.sda.cc.State.STOPPED;
+
 /**
  *
  * @author Philippe Daucourt <philippe.daucourt@he-arc.ch>

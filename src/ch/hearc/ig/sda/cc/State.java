@@ -10,5 +10,5 @@ package ch.hearc.ig.sda.cc;
  * @author Philippe Daucourt <philippe.daucourt@he-arc.ch>
  */
 public enum State {
-    //TODO
+    STOPPED, DRIVING;
 }
